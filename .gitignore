@@ -1,3 +1,6 @@
 .aptos/
 build/
 node_modules
+.env
+.aptos_backup
+
