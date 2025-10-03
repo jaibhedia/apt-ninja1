@@ -1,6 +1,5 @@
-# Aptos Coin Ninja - React Version
-
-A React.js rewrite of the Aptos Coin Ninja game, preserving all original aesthetics, animations, design, feel, and functionality.
+# APT Ninja
+An on-chain skill-based game on Aptos where players slice tokens, avoid obstacles, and earn rewards.
 
 ## Overview
 
@@ -167,5 +166,3 @@ Every aspect of the original game has been carefully preserved:
 - **Scoring System**: Identical point values and statistics
 - **Mobile Support**: Touch controls and responsive layout
 - **Performance**: Smooth 60fps gameplay on all devices
-
-The React architecture makes the code more maintainable while keeping the exact same user experience as the original vanilla JavaScript version.
